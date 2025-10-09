@@ -5,12 +5,12 @@ Olá! Eu sou Vinicius Pedro Andreazza, atualmente tenho 16 anos. E estou cursand
 
 ### 💻 Habilidades & tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=vscode,github,arduino,git,css,js,html&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,hibernate,maven,mysql,vscode,github,arduino,git,css,js,html&theme=dark)
 
 
 ### 📚 Aprendendo atualmente
 
- ![My Skills](https://skillicons.dev/icons?i=java,spring,docker&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=spring,docker&theme=dark)
 
 ### 📊 Github Status
 <table>
