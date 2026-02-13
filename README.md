@@ -12,5 +12,5 @@ Olá! Eu sou Vinicius Pedro Andreazza, atualmente tenho 17 anos. E estou cursand
 
  ![My Skills](https://skillicons.dev/icons?i=spring,docker,aws&theme=dark)
 
-![Stats](./profile/stats.svg&theme=dark)
-![Top Languages](./profile/top-langs.svg&theme=dark)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
